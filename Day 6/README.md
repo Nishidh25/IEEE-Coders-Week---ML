@@ -14,3 +14,16 @@ https://www.kdnuggets.com/2019/10/easily-deploy-machine-learning-models-using-fl
 
 A END to END demo:
 https://towardsdatascience.com/face-detection-using-face-api-js-and-flask-b641f19228cc
+
+
+# Screenshots
+## Initial page
+<img src = "https://github.com/Nishidh25/IEEE-Coders-Week---ML/blob/master/Day%206/screenshots/home.jpg" />
+
+## Toxic Classification 
+<img src = "https://github.com/Nishidh25/IEEE-Coders-Week---ML/blob/master/Day%206/screenshots/toxic_txt.jpg" />
+<img src = "https://github.com/Nishidh25/IEEE-Coders-Week---ML/blob/master/Day%206/screenshots/toxic_class.jpg" />
+
+## Not Toxic Classifiaction
+<img src = "https://github.com/Nishidh25/IEEE-Coders-Week---ML/blob/master/Day%206/screenshots/not_toxic_txt.jpg" />
+<img src = "https://github.com/Nishidh25/IEEE-Coders-Week---ML/blob/master/Day%206/screenshots/not_toxic_class.jpg" />
