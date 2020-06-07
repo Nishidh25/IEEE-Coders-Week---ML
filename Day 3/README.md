@@ -1,5 +1,4 @@
 # Day 3 
-Implementing advanced UI (Modern Dashboards, Cardview, Gridlayout and animations.)
 
 # Task  : 
 Solve the problem using this data (Apply all the Techniques learned and submit well written Colab)
